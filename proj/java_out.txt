@@ -1,0 +1,33 @@
+root name is:java
+father is java: spring
+father is spring: mysql
+father is mysql: sql
+father is sql: oracle
+father is oracle: javascript
+father is javascript: html
+father is html: css
+father is css: js
+father is html: mvc
+father is javascript: ajax
+father is javascript: jsp
+father is oracle: hibernate
+father is hibernate: struts
+father is hibernate: xml
+father is oracle: web
+father is web: weblogic
+father is oracle: jquery
+father is oracle: j2ee
+father is oracle: sqlserver
+father is sql: mybatis
+father is mybatis: springmvc
+father is mybatis: redis
+father is mybatis: springboot
+father is sql: tomcat
+father is tomcat: nginx
+father is sql: linux
+father is sql: svn
+father is sql: maven
+father is mysql: ibatis
+father is java: eclipse
+*********
+['java', 'spring', 'mysql', 'oracle', 'sql', 'web', 'mybatis', 'j2ee', 'jquery', 'javascript', 'linux', 'hibernate', 'tomcat', 'redis', 'springmvc', 'css', 'html', 'mvc', 'struts', 'ajax', 'jsp', 'js', 'svn', 'xml', 'sqlserver', 'maven', 'eclipse', 'weblogic', 'ibatis', 'nginx', 'springboot']
